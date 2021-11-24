@@ -1,3 +1,3 @@
 # resume
-# A sample Resuse in HTML and CSS
+# A sample Resume in HTML and CSS
 
